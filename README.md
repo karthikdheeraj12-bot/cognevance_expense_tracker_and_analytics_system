@@ -225,7 +225,7 @@ It contains two primary tables:
 - Advanced financial analytics.
 - Cloud database integration.
 
-📚 Internship Details
+## 📚 Internship Details
 Organization: Cognevance Technologies
 
 Domain: Python Programming
@@ -234,11 +234,11 @@ Project Level: Level 2 – Intermediate
 
 Project Title: Student Record Management System
 
-👨‍💻 Author
+## 👨‍💻 Author
 Golla Ramesh Karthik Dheeraj
 
 Python Programming Intern
 
 Cognevance Technologies
 
-⭐ If you find this project useful, feel free to explore the repository!
+## ⭐ If you find this project useful, feel free to explore the repository!

@@ -96,7 +96,7 @@ Cognevance_Expense_Tracker/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/karthikdheeraj12-bot/cognevance_expense_tracker_and_analytics_system.git
 ```
 
 ### Step 2: Navigate to the Project Directory
